@@ -6,7 +6,7 @@ Below are links to Jupyter Lab, which will be used for Python folks, and for RSt
 
 Jupyter Lab (Python)
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/ccss-rs/API-Workshop-Series/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpwchang/API-Workshop-Series/HEAD)
 
 RStudio
 
